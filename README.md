@@ -1,3 +1,3 @@
 ## Infrastructure
 
-![Kafka-Spark](https://github.com/k-pulkit/Sensor-streams-kafka-spark/assets/71238192/4f2161c4-9eea-455e-97cd-d64bd47a091c)
+![Kafka-Spark](https://github.com/k-pulkit/Sensor-streams-kafka-spark/assets/71238192/2bf860a7-277e-498a-a8bc-392be1ab6142)
